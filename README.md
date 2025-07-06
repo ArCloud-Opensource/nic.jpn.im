@@ -3,7 +3,7 @@
 > Free `*.jpn.im` subdomains maintained by ArCloud Opensource  
 > [https://nic.jpn.im](https://nic.jpn.im)
 
-[简体中文](https://github.com/arcloud-opensource/nic.jpn.im/README-zh-CN.md)
+[简体中文](https://github.com/ArCloud-Opensource/nic.jpn.im/blob/main/README-zh-CN.md)
 ## Features
 - Completely FREE `*.jpn.im` subdomains
 - Transparent GitHub-based application process
