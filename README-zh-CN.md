@@ -1,6 +1,6 @@
-# 🆓 NIC.JPN.IM - 免费二级域名服务
+# 🆓 NIC.JPN.IM - 免费二级域名
 
-> 由 ArCloud Opensource 维护的免费 `*.jpn.im` 二级域名分发服务  
+> 由 ArCloud Opensource 维护的免费 `*.jpn.im` 二级域名分发
 > [https://nic.jpn.im](https://nic.jpn.im)
 
 ## ✨ 服务特点
