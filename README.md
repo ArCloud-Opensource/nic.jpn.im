@@ -5,7 +5,7 @@
 
 [简体中文](https://github.com/arcloud-opensource/nic.jpn.im/README-zh-CN.md)
 ## Features
-- Completely free `*.jpn.im` subdomains
+- Completely FREE `*.jpn.im` subdomains
 - Transparent GitHub-based application process
 - Custom NS server support
 
