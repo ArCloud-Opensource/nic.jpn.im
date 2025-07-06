@@ -1,16 +1,15 @@
-# 🆓 NIC.JPN.IM - Free Subdomain Service
+# NIC.JPN.IM - Free Subdomain Service
 
 > Free `*.jpn.im` subdomains maintained by ArCloud Opensource  
 > [https://nic.jpn.im](https://nic.jpn.im)
 
 [简体中文](https://github.com/arcloud-opensource/nic.jpn.im/README-zh-CN.md)
-## ✨ Features
+## Features
 - Completely free `*.jpn.im` subdomains
 - Transparent GitHub-based application process
 - Custom NS server support
-- Integrated community verification
 
-## 🚀 Application Guide
+## Application Guide
 
 ### Step 1: Create an Issue
 Go to [Issues page](https://github.com/ArCloud-Opensource/NIC.JPN.IM/issues) and click "New Issue"
@@ -38,3 +37,4 @@ E-Mail:
 ### Domain Purpose
 <!-- Describe detailed usage scenario -->
 Purpose Description:
+```
