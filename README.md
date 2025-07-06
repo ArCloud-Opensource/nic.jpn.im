@@ -1,4 +1,4 @@
-# NIC.JPN.IM - Free Subdomain Service
+# NIC.JPN.IM - Free Subdomain
 
 > Free `*.jpn.im` subdomains maintained by ArCloud Opensource  
 > [https://nic.jpn.im](https://nic.jpn.im)
